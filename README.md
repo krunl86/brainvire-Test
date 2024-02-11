@@ -8,6 +8,7 @@ candidate name : krunal prajapati
 email id : krunalgadgetguru@gmail.com
 
 
+
 This project is a containing simple list application which has offline store feature.
 
 application contain simple open source api to list product list which contain image title and description
