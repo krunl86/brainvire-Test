@@ -1,17 +1,23 @@
 # brainvire_test
 
-A new Flutter project.
+A new Flutter Test Practical for  BrainVire.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+candidate name : krunal prajapati
+email id : krunalgadgetguru@gmail.com
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is a containing simple list application which has offline store feature.
+
+application contain simple open source api to list product list which contain image title and description
+on detail page we have rating and other issuee.
+
+application used with simple provider to manage data and sqlite for offline storage.
+
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[google drive link for source code ](https://drive.google.com/drive/folders/171DkFNrhvqXBg2YTblClQ2Al9xZtDl1F?usp=sharing), it containe source code zip, apk file and video url.
+
+[youtube link for video ](https://www.youtube.com/watch?v=kBWYU_OeY94), this is youtube video link for application 
 # brainvire-Test
