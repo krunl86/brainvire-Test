@@ -17,7 +17,7 @@ on detail page we have rating and other issuee.
 application used with simple provider to manage data and sqlite for offline storage.
 
 
-For help getting started with Flutter development, view the
+For help getting started with Project, view the
 [google drive link for source code ](https://drive.google.com/drive/folders/171DkFNrhvqXBg2YTblClQ2Al9xZtDl1F?usp=sharing), it containe source code zip, apk file and video url.
 
 [youtube link for video ](https://www.youtube.com/watch?v=kBWYU_OeY94), this is youtube video link for application 
